@@ -1,0 +1,389 @@
+
+ 
+记录时间：2014-11-17 09:12:08,659 
+日志级别：  INFO  
+类：MDM.Modules.EdgeServerDataModule property: [(null)] - 
+描述：收到EdgeServer发送的消息：{
+ 	"serviceID":"1",
+	"payload":{
+		"terminalID":"5465b8a0b83ba125b8b7c464",
+		"data":{
+			"interfaceID":"12",
+ 			"deviceKey":"",		
+ 			"pfData":{
+				"appID":"107"		
+			}
+		}				
+	}
+ }
+ 
+
+ 
+记录时间：2014-11-17 09:14:27,717 
+日志级别：  INFO  
+类：MDM.Modules.EdgeServerDataModule property: [(null)] - 
+描述：收到EdgeServer发送的消息：{
+ 	"serviceID":"1",
+	"payload":{
+		"terminalID":"5465b8a0b83ba125b8b7c464",
+		"data":{
+			"interfaceID":"12",
+ 			"deviceKey":"",		
+ 			"pfData":{
+				"appID":"107"		
+			}
+		}				
+	}
+ }
+ 
+
+ 
+记录时间：2014-11-17 09:18:17,467 
+日志级别：  INFO  
+类：MDM.Modules.EdgeServerDataModule property: [(null)] - 
+描述：收到EdgeServer发送的消息：{
+ 	"serviceID":"1",
+	"payload":{
+		"terminalID":"5465b8a0b83ba125b8b7c464",
+		"data":{
+			"interfaceID":"12",
+ 			"deviceKey":"",		
+ 			"pfData":{
+				"appID":"107"		
+			}
+		}				
+	}
+ }
+ 
+
+ 
+记录时间：2014-11-17 09:25:21,585 
+日志级别：  INFO  
+类：MDM.Modules.EdgeServerDataModule property: [(null)] - 
+描述：收到EdgeServer发送的消息：{
+ 	"serviceID":"1",
+	"payload":{
+		"terminalID":"5465b8a0b83ba125b8b7c464",
+		"data":{
+			"interfaceID":"12",
+ 			"deviceKey":"",		
+ 			"pfData":{
+				"appID":"107"		
+			}
+		}				
+	}
+ }
+ 
+
+ 
+记录时间：2014-11-17 09:27:14,849 
+日志级别：  INFO  
+类：MDM.Modules.EdgeServerDataModule property: [(null)] - 
+描述：收到EdgeServer发送的消息：{
+ 	"serviceID":"1",
+	"payload":{
+		"terminalID":"5465b8a0b83ba125b8b7c464",
+		"data":{
+			"interfaceID":"12",
+ 			"deviceKey":"",		
+ 			"pfData":{
+				"appID":"107"		
+			}
+		}				
+	}
+ }
+ 
+
+ 
+记录时间：2014-11-17 09:30:32,204 
+日志级别：  INFO  
+类：MDM.Modules.EdgeServerDataModule property: [(null)] - 
+描述：收到EdgeServer发送的消息：{
+ 	"serviceID":"1",
+	"payload":{
+		"terminalID":"5465b8a0b83ba125b8b7c464",
+		"data":{
+			"interfaceID":"12",
+ 			"deviceKey":"",		
+ 			"pfData":{
+				"appID":"107"		
+			}
+		}				
+	}
+ }
+ 
+
+ 
+记录时间：2014-11-17 09:32:50,421 
+日志级别：  INFO  
+类：MDM.Modules.EdgeServerDataModule property: [(null)] - 
+描述：收到EdgeServer发送的消息：{
+ 	"serviceID":"1",
+	"payload":{
+		"terminalID":"5465b8a0b83ba125b8b7c464",
+		"data":{
+			"interfaceID":"12",
+ 			"deviceKey":"",		
+ 			"pfData":{
+				"appID":"107"		
+			}
+		}				
+	}
+ }
+ 
+
+ 
+记录时间：2014-11-17 09:36:10,775 
+日志级别：  INFO  
+类：MDM.Modules.EdgeServerDataModule property: [(null)] - 
+描述：收到EdgeServer发送的消息：{
+ 	"serviceID":"1",
+	"payload":{
+		"terminalID":"5465b8a0b83ba125b8b7c464",
+		"data":{
+			"interfaceID":"12",
+ 			"deviceKey":"",		
+ 			"pfData":{
+				"appID":"107"		
+			}
+		}				
+	}
+ }
+ 
+
+ 
+记录时间：2014-11-17 09:38:00,600 
+日志级别：  INFO  
+类：MDM.Modules.EdgeServerDataModule property: [(null)] - 
+描述：收到EdgeServer发送的消息：{
+ 	"serviceID":"1",
+	"payload":{
+		"terminalID":"5465b8a0b83ba125b8b7c464",
+		"data":{
+			"interfaceID":"12",
+ 			"deviceKey":"",		
+ 			"pfData":{
+				"appID":"107"		
+			}
+		}				
+	}
+ }
+ 
+
+ 
+记录时间：2014-11-17 09:39:36,890 
+日志级别：  INFO  
+类：MDM.Modules.EdgeServerDataModule property: [(null)] - 
+描述：收到EdgeServer发送的消息：{
+ 	"serviceID":"1",
+	"payload":{
+		"terminalID":"5465b8a0b83ba125b8b7c464",
+		"data":{
+			"interfaceID":"12",
+ 			"deviceKey":"",		
+ 			"pfData":{
+				"appID":"107"		
+			}
+		}				
+	}
+ }
+ 
+
+ 
+记录时间：2014-11-17 09:41:56,576 
+日志级别：  INFO  
+类：MDM.Modules.EdgeServerDataModule property: [(null)] - 
+描述：收到EdgeServer发送的消息：{
+ 	"serviceID":"1",
+	"payload":{
+		"terminalID":"5465b8a0b83ba125b8b7c464",
+		"data":{
+			"interfaceID":"12",
+ 			"deviceKey":"",		
+ 			"pfData":{
+				"appID":"107"		
+			}
+		}				
+	}
+ }
+ 
+
+ 
+记录时间：2014-11-17 09:56:32,043 
+日志级别：  INFO  
+类：MDM.Modules.EdgeServerDataModule property: [(null)] - 
+描述：收到EdgeServer发送的消息：{
+ 	"serviceID":"1",
+	"payload":{
+		"terminalID":"5465b8a0b83ba125b8b7c464",
+		"data":{
+			"interfaceID":"12",
+ 			"deviceKey":"",		
+ 			"pfData":{
+				"appID":"107"		
+			}
+		}				
+	}
+ }
+ 
+
+ 
+记录时间：2014-11-17 11:06:22,545 
+日志级别：  INFO  
+类：MDM.Modules.EdgeServerDataModule property: [(null)] - 
+描述：收到EdgeServer发送的消息：{
+ 	"serviceID":"1",
+	"payload":{
+		"terminalID":"5465b8a0b83ba125b8b7c464",
+		"data":{
+			"interfaceID":"12",
+ 			"deviceKey":"",		
+ 			"pfData":{
+				"appID":"107"		
+			}
+		}				
+	}
+ }
+ 
+
+ 
+记录时间：2014-11-17 11:18:58,347 
+日志级别：  INFO  
+类：MDM.Modules.EdgeServerDataModule property: [(null)] - 
+描述：收到EdgeServer发送的消息：{
+ 	"serviceID":"1",
+	"payload":{
+		"terminalID":"5465b8a0b83ba125b8b7c464",
+		"data":{
+			"interfaceID":"12",
+ 			"deviceKey":"",		
+ 			"pfData":{
+				"appID":"107"		
+			}
+		}				
+	}
+ }
+ 
+
+ 
+记录时间：2014-11-17 11:19:58,476 
+日志级别：  INFO  
+类：MDM.Modules.EdgeServerDataModule property: [(null)] - 
+描述：收到EdgeServer发送的消息：{
+ 	"serviceID":"1",
+	"payload":{
+		"terminalID":"5465b8a0b83ba125b8b7c464",
+		"data":{
+			"interfaceID":"12",
+ 			"deviceKey":"",		
+ 			"pfData":{
+				"appID":"107"		
+			}
+		}				
+	}
+ }
+ 
+
+ 
+记录时间：2014-11-17 11:22:46,420 
+日志级别：  INFO  
+类：MDM.Modules.EdgeServerDataModule property: [(null)] - 
+描述：收到EdgeServer发送的消息：{
+ 	"serviceID":"1",
+	"payload":{
+		"terminalID":"5465b8a0b83ba125b8b7c464",
+		"data":{
+			"interfaceID":"12",
+ 			"deviceKey":"",		
+ 			"pfData":{
+				"appID":"107"		
+			}
+		}				
+	}
+ }
+ 
+
+ 
+记录时间：2014-11-17 17:25:34,872 
+日志级别：  INFO  
+类：MDM.Modules.EdgeServerDataModule property: [(null)] - 
+描述：收到EdgeServer发送的消息：{
+ 	"serviceID":"1",
+	"payload":{
+		"terminalID":"5465b8a0b83ba125b8b7c464",
+		"data":{
+			"interfaceID":"11",
+ 			"deviceKey":""	
+ 			
+		}				
+	}
+ }
+ 
+
+ 
+记录时间：2014-11-17 17:29:12,312 
+日志级别：  INFO  
+类：MDM.Modules.EdgeServerDataModule property: [(null)] - 
+描述：收到EdgeServer发送的消息：{
+ 	"serviceID":"1",
+	"payload":{
+		"terminalID":"5465b8a0b83ba125b8b7c464",
+		"data":{
+			"interfaceID":"11",
+ 			"deviceKey":""	
+ 			
+		}				
+	}
+ }
+ 
+
+ 
+记录时间：2014-11-17 17:32:25,030 
+日志级别：  INFO  
+类：MDM.Modules.EdgeServerDataModule property: [(null)] - 
+描述：收到EdgeServer发送的消息：{
+ 	"serviceID":"1",
+	"payload":{
+		"terminalID":"5465b8a0b83ba125b8b7c464",
+		"data":{
+			"interfaceID":"11",
+ 			"deviceKey":""	
+ 			
+		}				
+	}
+ }
+ 
+
+ 
+记录时间：2014-11-17 17:49:50,507 
+日志级别：  INFO  
+类：MDM.Modules.EdgeServerDataModule property: [(null)] - 
+描述：收到EdgeServer发送的消息：{
+ 	"serviceID":"1",
+	"payload":{
+		"terminalID":"5465b8a0b83ba125b8b7c464",
+		"data":{
+			"interfaceID":"11",
+ 			"deviceKey":""	
+ 			
+		}				
+	}
+ }
+ 
+
+ 
+记录时间：2014-11-17 17:51:20,286 
+日志级别：  INFO  
+类：MDM.Modules.EdgeServerDataModule property: [(null)] - 
+描述：收到EdgeServer发送的消息：{
+ 	"serviceID":"1",
+	"payload":{
+		"terminalID":"5465b8a0b83ba125b8b7c464",
+		"data":{
+			"interfaceID":"11",
+ 			"deviceKey":""	
+ 			
+		}				
+	}
+ }
+ 

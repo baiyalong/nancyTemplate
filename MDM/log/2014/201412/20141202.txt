@@ -1,0 +1,109 @@
+
+ 
+记录时间：2014-12-02 09:36:39,554 
+日志级别：  INFO  
+类：MDM.Modules.EdgeServerDataModule property: [(null)] - 
+描述：收到EdgeServer发送的消息：{
+ 	"serviceID":"2",
+	"payload":{
+		"responseID":"95d1d536be-3d9f-4766-87b2-e5800241c6b9",
+		"terminalID":"546c302a7acb021e6501eb17",
+		"status":"0"
+			
+			
+		}				
+	
+ }
+ 
+
+ 
+记录时间：2014-12-02 09:38:37,415 
+日志级别：  INFO  
+类：MDM.BLL.MessageBLL property: [(null)] - 
+描述：异常：插入发送消息========未将对象引用设置到对象的实例。2014/12/02 09:38:32
+ 
+
+ 
+记录时间：2014-12-02 09:41:10,510 
+日志级别：  INFO  
+类：MDM.Modules.EdgeServerDataModule property: [(null)] - 
+描述：收到EdgeServer发送的消息：{
+ 	"serviceID":"2",
+	"payload":{
+		"responseID":"95d1d536be-3d9f-4766-87b2-e5800241c6b9",
+		"terminalID":"546c302a7acb021e6501eb17",
+		"status":"0"
+			
+			
+		}				
+	
+ }
+ 
+
+ 
+记录时间：2014-12-02 09:54:21,443 
+日志级别：  INFO  
+类：MDM.Modules.EdgeServerDataModule property: [(null)] - 
+描述：收到EdgeServer发送的消息：{
+ 	"serviceID":"2",
+	"payload":{
+		"responseID":"9574dca7a0-4936-4d85-8c4e-23d9d41ab210",
+		"terminalID":"546c317e7acb021e6501eb19",
+		"status":"0"
+			
+			
+		}				
+	
+ }
+ 
+
+ 
+记录时间：2014-12-02 09:57:28,610 
+日志级别：  INFO  
+类：MDM.Modules.EdgeServerDataModule property: [(null)] - 
+描述：收到EdgeServer发送的消息：{
+ 	"serviceID":"2",
+	"payload":{
+		"responseID":"95b5f9eb87-351e-4200-9685-9d8b6611864e",
+		"terminalID":"546c317e7acb021e6501eb19",
+		"status":"0"
+			
+			
+		}				
+	
+ }
+ 
+
+ 
+记录时间：2014-12-02 10:02:14,538 
+日志级别：  INFO  
+类：MDM.Modules.EdgeServerDataModule property: [(null)] - 
+描述：收到EdgeServer发送的消息：{
+ 	"serviceID":"2",
+	"payload":{
+		"responseID":"95b5f9eb87-351e-4200-9685-9d8b6611864e",
+		"terminalID":"546c317e7acb021e6501eb19",
+		"status":"0"
+			
+			
+		}				
+	
+ }
+ 
+
+ 
+记录时间：2014-12-02 10:05:25,806 
+日志级别：  INFO  
+类：MDM.Modules.EdgeServerDataModule property: [(null)] - 
+描述：收到EdgeServer发送的消息：{
+ 	"serviceID":"2",
+	"payload":{
+		"responseID":"95b5f9eb87-351e-4200-9685-9d8b6611864e",
+		"terminalID":"546c317e7acb021e6501eb19",
+		"status":"0"
+			
+			
+		}				
+	
+ }
+ 

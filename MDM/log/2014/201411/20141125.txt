@@ -1,0 +1,1016 @@
+
+ 
+记录时间：2014-11-25 09:01:48,035 
+日志级别：  INFO  
+类：MDM.Modules.EdgeServerDataModule property: [(null)] - 
+描述：收到EdgeServer发送的消息：{
+ 	"serviceID":"1",
+	"payload":{
+		"terminalID":"5465b8a0b83ba125b8b7c464",
+		"data":{
+			"interfaceID":"10",
+ 			"deviceKey":"356952047825148@unknown@e6f49b8e-a552-441e-b828-5dedbc2f7a49",
+		         "pfData": {
+            			"apps": [
+
+                			{
+                   			 "appName": "百度地图SDK DEMO",
+                   			 "appVersionName": "1.0",
+                   			 "firstInstallTime": "2014-11-24 10：56：23",
+                    			"lastUpdateTime": "2014-11-24 10：56：23",
+                    			"packageName": "baidumapsdk.demo"
+               				 },
+                			{
+                    			"appName": "8684公交",
+                   		        "appVersionName": "11.4.120",
+                    			"firstInstallTime": "2014-10-01 15：49：33",
+                    			"lastUpdateTime": "2014-10-01 15：49：33",
+                    			"packageName": "cn.chinabus.main"
+                			}
+                
+           				]
+        			    }
+ 			
+		}				
+	}
+ }
+ 
+
+ 
+记录时间：2014-11-25 09:03:05,091 
+日志级别：  INFO  
+类：MDM.Modules.EdgeServerDataModule property: [(null)] - 
+描述：收到EdgeServer发送的消息：{
+ 	"serviceID":"1",
+	"payload":{
+		"terminalID":"5465b8a0b83ba125b8b7c464",
+		"data":{
+			"interfaceID":"10",
+ 			"deviceKey":"356952047825148@unknown@e6f49b8e-a552-441e-b828-5dedbc2f7a49",
+		         "pfData": {
+            			"apps": [
+
+                			{
+                   			 "appName": "百度地图SDK DEMO",
+                   			 "appVersionName": "1.0",
+                   			 "firstInstallTime": "2014-11-24 10：56：23",
+                    			"lastUpdateTime": "2014-11-24 10：56：23",
+                    			"packageName": "baidumapsdk.demo"
+               				 },
+                			{
+                    			"appName": "8684公交",
+                   		        "appVersionName": "11.4.120",
+                    			"firstInstallTime": "2014-10-01 15：49：33",
+                    			"lastUpdateTime": "2014-10-01 15：49：33",
+                    			"packageName": "cn.chinabus.main"
+                			}
+                
+           				]
+        			    }
+ 			
+		}				
+	}
+ }
+ 
+
+ 
+记录时间：2014-11-25 09:09:15,853 
+日志级别：  INFO  
+类：MDM.Modules.EdgeServerDataModule property: [(null)] - 
+描述：收到EdgeServer发送的消息：{
+ 	"serviceID":"1",
+	"payload":{
+		"terminalID":"5465b8a0b83ba125b8b7c464",
+		"data":{
+			"interfaceID":"10",
+ 			"deviceKey":"356952047825148@unknown@e6f49b8e-a552-441e-b828-5dedbc2f7a49",
+		         "pfData": {
+            			"apps": [
+
+                			{
+                   			 "appName": "百度地图SDK DEMO",
+                   			 "appVersionName": "1.0",
+                   			 "firstInstallTime": "2014-11-24 10：56：23",
+                    			"lastUpdateTime": "2014-11-24 10：56：23",
+                    			"packageName": "baidumapsdk.demo"
+               				 },
+                			{
+                    			"appName": "8684公交",
+                   		        "appVersionName": "11.4.120",
+                    			"firstInstallTime": "2014-10-01 15：49：33",
+                    			"lastUpdateTime": "2014-10-01 15：49：33",
+                    			"packageName": "cn.chinabus.main"
+                			}
+                
+           				]
+        			    }
+ 			
+		}				
+	}
+ }
+ 
+
+ 
+记录时间：2014-11-25 09:14:39,753 
+日志级别：  INFO  
+类：MDM.Modules.EdgeServerDataModule property: [(null)] - 
+描述：收到EdgeServer发送的消息：{
+ 	"serviceID":"1",
+	"payload":{
+		"terminalID":"5465b8a0b83ba125b8b7c464",
+		"data":{
+			"interfaceID":"10",
+ 			"deviceKey":"356952047825148@unknown@e6f49b8e-a552-441e-b828-5dedbc2f7a49",
+		         "pfData": {
+            			"apps": [
+
+                			{
+                   			 "appName": "百度地图SDK DEMO",
+                   			 "appVersionName": "1.0",
+                   			 "firstInstallTime": "2014-11-24 10：56：23",
+                    			"lastUpdateTime": "2014-11-24 10：56：23",
+                    			"packageName": "baidumapsdk.demo"
+               				 },
+                			{
+                    			"appName": "8684公交",
+                   		        "appVersionName": "11.4.120",
+                    			"firstInstallTime": "2014-10-01 15：49：33",
+                    			"lastUpdateTime": "2014-10-01 15：49：33",
+                    			"packageName": "cn.chinabus.main"
+                			}
+                
+           				]
+        			    }
+ 			
+		}				
+	}
+ }
+ 
+
+ 
+记录时间：2014-11-25 09:17:08,249 
+日志级别：  INFO  
+类：MDM.Modules.EdgeServerDataModule property: [(null)] - 
+描述：收到EdgeServer发送的消息：{
+ 	"serviceID":"1",
+	"payload":{
+		"terminalID":"5465b8a0b83ba125b8b7c464",
+		"data":{
+			"interfaceID":"10",
+ 			"deviceKey":"356952047825148@unknown@e6f49b8e-a552-441e-b828-5dedbc2f7a49",
+		         "pfData": {
+            			"apps": [
+
+                			{
+                   			 "appName": "百度地图SDK DEMO",
+                   			 "appVersionName": "1.0",
+                   			 "firstInstallTime": "2014-11-24 10：56：23",
+                    			"lastUpdateTime": "2014-11-24 10：56：23",
+                    			"packageName": "baidumapsdk.demo"
+               				 },
+                			{
+                    			"appName": "8684公交",
+                   		        "appVersionName": "11.4.120",
+                    			"firstInstallTime": "2014-10-01 15：49：33",
+                    			"lastUpdateTime": "2014-10-01 15：49：33",
+                    			"packageName": "cn.chinabus.main"
+                			}
+                
+           				]
+        			    }
+ 			
+		}				
+	}
+ }
+ 
+
+ 
+记录时间：2014-11-25 09:19:02,859 
+日志级别：  INFO  
+类：MDM.Modules.EdgeServerDataModule property: [(null)] - 
+描述：收到EdgeServer发送的消息：{
+ 	"serviceID":"1",
+	"payload":{
+		"terminalID":"5465b8a0b83ba125b8b7c464",
+		"data":{
+			"interfaceID":"10",
+ 			"deviceKey":"356952047825148@unknown@e6f49b8e-a552-441e-b828-5dedbc2f7a49",
+		         "pfData": {
+            			"apps": [
+
+                			{
+                   			 "appName": "百度地图SDK DEMO",
+                   			 "appVersionName": "1.0",
+                   			 "firstInstallTime": "2014-11-24 10：56：23",
+                    			"lastUpdateTime": "2014-11-24 10：56：23",
+                    			"packageName": "baidumapsdk.demo"
+               				 },
+                			{
+                    			"appName": "8684公交",
+                   		        "appVersionName": "11.4.120",
+                    			"firstInstallTime": "2014-10-01 15：49：33",
+                    			"lastUpdateTime": "2014-10-01 15：49：33",
+                    			"packageName": "cn.chinabus.main"
+                			}
+                
+           				]
+        			    }
+ 			
+		}				
+	}
+ }
+ 
+
+ 
+记录时间：2014-11-25 09:31:53,843 
+日志级别：  INFO  
+类：MDM.Modules.EdgeServerDataModule property: [(null)] - 
+描述：收到EdgeServer发送的消息：{
+ 	"serviceID":"1",
+	"payload":{
+		"terminalID":"5465b8a0b83ba125b8b7c464",
+		"data":{
+			"interfaceID":"10",
+ 			"deviceKey":"356952047825148@unknown@e6f49b8e-a552-441e-b828-5dedbc2f7a49",
+		         "pfData": {
+            			"apps": [
+
+                			{
+                   			 "appName": "百度地图SDK DEMO",
+                   			 "appVersionName": "1.0",
+                   			 "firstInstallTime": "2014-11-24 10：56：23",
+                    			"lastUpdateTime": "2014-11-24 10：56：23",
+                    			"packageName": "baidumapsdk.demo"
+               				 },
+                			{
+                    			"appName": "8684公交",
+                   		        "appVersionName": "11.4.120",
+                    			"firstInstallTime": "2014-10-01 15：49：33",
+                    			"lastUpdateTime": "2014-10-01 15：49：33",
+                    			"packageName": "cn.chinabus.main"
+                			}
+                
+           				]
+        			    }
+ 			
+		}				
+	}
+ }
+ 
+
+ 
+记录时间：2014-11-25 09:33:21,949 
+日志级别：  INFO  
+类：MDM.Modules.EdgeServerDataModule property: [(null)] - 
+描述：收到EdgeServer发送的消息：{
+ 	"serviceID":"1",
+	"payload":{
+		"terminalID":"5465b8a0b83ba125b8b7c464",
+		"data":{
+			"interfaceID":"10",
+ 			"deviceKey":"356952047825148@unknown@e6f49b8e-a552-441e-b828-5dedbc2f7a49",
+		         "pfData": {
+            			"apps": [
+
+                			{
+                   			 "appName": "百度地图SDK DEMO",
+                   			 "appVersionName": "1.0",
+                   			 "firstInstallTime": "2014-11-24 10：56：23",
+                    			"lastUpdateTime": "2014-11-24 10：56：23",
+                    			"packageName": "baidumapsdk.demo"
+               				 },
+                			{
+                    			"appName": "8684公交",
+                   		        "appVersionName": "11.4.120",
+                    			"firstInstallTime": "2014-10-01 15：49：33",
+                    			"lastUpdateTime": "2014-10-01 15：49：33",
+                    			"packageName": "cn.chinabus.main"
+                			}
+                
+           				]
+        			    }
+ 			
+		}				
+	}
+ }
+ 
+
+ 
+记录时间：2014-11-25 09:41:14,685 
+日志级别：  INFO  
+类：MDM.Modules.EdgeServerDataModule property: [(null)] - 
+描述：收到EdgeServer发送的消息：{
+ 	"serviceID":"1",
+	"payload":{
+		"terminalID":"5465b8a0b83ba125b8b7c464",
+		"data":{
+			"interfaceID":"10",
+ 			"deviceKey":"356952047825148@unknown@e6f49b8e-a552-441e-b828-5dedbc2f7a49",
+		         "pfData": {
+            			"apps": [
+
+                			{
+                   			 "appName": "百度地图SDK DEMO",
+                   			 "appVersionName": "1.0",
+                   			 "firstInstallTime": "2014-11-24 10：56：23",
+                    			"lastUpdateTime": "2014-11-24 10：56：23",
+                    			"packageName": "baidumapsdk.demo"
+               				 },
+                			{
+                    			"appName": "8684公交",
+                   		        "appVersionName": "11.4.120",
+                    			"firstInstallTime": "2014-10-01 15：49：33",
+                    			"lastUpdateTime": "2014-10-01 15：49：33",
+                    			"packageName": "cn.chinabus.main"
+                			}
+                
+           				]
+        			    }
+ 			
+		}				
+	}
+ }
+ 
+
+ 
+记录时间：2014-11-25 09:48:52,240 
+日志级别：  INFO  
+类：MDM.Modules.EdgeServerDataModule property: [(null)] - 
+描述：收到EdgeServer发送的消息：{
+ 	"serviceID":"1",
+	"payload":{
+		"terminalID":"5465b8a0b83ba125b8b7c464",
+		"data":{
+			"interfaceID":"10",
+ 			"deviceKey":"356952047825148@unknown@e6f49b8e-a552-441e-b828-5dedbc2f7a49",
+		         "pfData": {
+            			"apps": [
+
+                			{
+                   			 "appName": "百度地图SDK DEMO",
+                   			 "appVersionName": "1.0",
+                   			 "firstInstallTime": "2014-11-24 10：56：23",
+                    			"lastUpdateTime": "2014-11-24 10：56：23",
+                    			"packageName": "baidumapsdk.demo"
+               				 },
+                			{
+                    			"appName": "8684公交",
+                   		        "appVersionName": "11.4.120",
+                    			"firstInstallTime": "2014-10-01 15：49：33",
+                    			"lastUpdateTime": "2014-10-01 15：49：33",
+                    			"packageName": "cn.chinabus.main"
+                			}
+                
+           				]
+        			    }
+ 			
+		}				
+	}
+ }
+ 
+
+ 
+记录时间：2014-11-25 09:55:45,693 
+日志级别：  INFO  
+类：MDM.Modules.EdgeServerDataModule property: [(null)] - 
+描述：收到EdgeServer发送的消息：{
+ 	"serviceID":"1",
+	"payload":{
+		"terminalID":"5465b8a0b83ba125b8b7c464",
+		"data":{
+			"interfaceID":"10",
+ 			"deviceKey":"356952047825148@unknown@e6f49b8e-a552-441e-b828-5dedbc2f7a49",
+		         "pfData": {
+            			"apps": [
+
+                			{
+                   			 "appName": "百度地图SDK DEMO",
+                   			 "appVersionName": "1.0",
+                   			 "firstInstallTime": "2014-11-24 10：56：23",
+                    			"lastUpdateTime": "2014-11-24 10：56：23",
+                    			"packageName": "baidumapsdk.demo"
+               				 },
+                			{
+                    			"appName": "8684公交",
+                   		        "appVersionName": "11.4.120",
+                    			"firstInstallTime": "2014-10-01 15：49：33",
+                    			"lastUpdateTime": "2014-10-01 15：49：33",
+                    			"packageName": "cn.chinabus.main"
+                			}
+                
+           				]
+        			    }
+ 			
+		}				
+	}
+ }
+ 
+
+ 
+记录时间：2014-11-25 10:02:05,521 
+日志级别：  INFO  
+类：MDM.Modules.EdgeServerDataModule property: [(null)] - 
+描述：收到EdgeServer发送的消息：{
+ 	"serviceID":"1",
+	"payload":{
+		"terminalID":"5465b8a0b83ba125b8b7c464",
+		"data":{
+			"interfaceID":"10",
+ 			"deviceKey":"356952047825148@unknown@e6f49b8e-a552-441e-b828-5dedbc2f7a49",
+		         "pfData": {
+            			"apps": [
+
+                			{
+                   			 "appName": "百度地图SDK DEMO",
+                   			 "appVersionName": "1.0",
+                   			 "firstInstallTime": "2014-11-24 10：56：23",
+                    			"lastUpdateTime": "2014-11-24 10：56：23",
+                    			"packageName": "baidumapsdk.demo"
+               				 },
+                			{
+                    			"appName": "8684公交",
+                   		        "appVersionName": "11.4.120",
+                    			"firstInstallTime": "2014-10-01 15：49：33",
+                    			"lastUpdateTime": "2014-10-01 15：49：33",
+                    			"packageName": "cn.chinabus.main"
+                			}
+                
+           				]
+        			    }
+ 			
+		}				
+	}
+ }
+ 
+
+ 
+记录时间：2014-11-25 10:33:07,905 
+日志级别：  INFO  
+类：MDM.Modules.EdgeServerDataModule property: [(null)] - 
+描述：收到EdgeServer发送的消息：{
+ 	"serviceID":"1",
+	"payload":{
+		"terminalID":"5465b8a0b83ba125b8b7c464",
+		"data":{
+			"interfaceID":"10",
+ 			"deviceKey":"356952047825148@unknown@e6f49b8e-a552-441e-b828-5dedbc2f7a49",
+		         "pfData": {
+            			"apps": [
+
+                			{
+                   			 "appName": "百度地图SDK DEMO",
+                   			 "appVersionName": "1.0",
+                   			 "firstInstallTime": "2014-11-24 10：56：23",
+                    			"lastUpdateTime": "2014-11-24 10：56：23",
+                    			"packageName": "baidumapsdk.demo"
+               				 },
+                			{
+                    			"appName": "8684公交",
+                   		        "appVersionName": "11.4.120",
+                    			"firstInstallTime": "2014-10-01 15：49：33",
+                    			"lastUpdateTime": "2014-10-01 15：49：33",
+                    			"packageName": "cn.chinabus.main"
+                			}
+                
+           				]
+        			    }
+ 			
+		}				
+	}
+ }
+ 
+
+ 
+记录时间：2014-11-25 10:36:29,104 
+日志级别：  INFO  
+类：MDM.Modules.EdgeServerDataModule property: [(null)] - 
+描述：收到EdgeServer发送的消息：{
+ 	"serviceID":"1",
+	"payload":{
+		"terminalID":"5465b8a0b83ba125b8b7c464",
+		"data":{
+			"interfaceID":"10",
+ 			"deviceKey":"356952047825148@unknown@e6f49b8e-a552-441e-b828-5dedbc2f7a49",
+		         "pfData": {
+            			"apps": [
+
+                			{
+                   			 "appName": "百度地图SDK DEMO",
+                   			 "appVersionName": "1.0",
+                   			 "firstInstallTime": "2014-11-24 10：56：23",
+                    			"lastUpdateTime": "2014-11-24 10：56：23",
+                    			"packageName": "baidumapsdk.demo"
+               				 },
+                			{
+                    			"appName": "8684公交",
+                   		        "appVersionName": "11.4.120",
+                    			"firstInstallTime": "2014-10-01 15：49：33",
+                    			"lastUpdateTime": "2014-10-01 15：49：33",
+                    			"packageName": "cn.chinabus.main"
+                			}
+                
+           				]
+        			    }
+ 			
+		}				
+	}
+ }
+ 
+
+ 
+记录时间：2014-11-25 10:39:21,880 
+日志级别：  INFO  
+类：MDM.Modules.EdgeServerDataModule property: [(null)] - 
+描述：收到EdgeServer发送的消息：{
+ 	"serviceID":"1",
+	"payload":{
+		"terminalID":"5465b8a0b83ba125b8b7c464",
+		"data":{
+			"interfaceID":"10",
+ 			"deviceKey":"356952047825148@unknown@e6f49b8e-a552-441e-b828-5dedbc2f7a49",
+		         "pfData": {
+            			"apps": [
+
+                			{
+                   			 "appName": "百度地图SDK DEMO",
+                   			 "appVersionName": "1.0",
+                   			 "firstInstallTime": "2014-11-24 10：56：23",
+                    			"lastUpdateTime": "2014-11-24 10：56：23",
+                    			"packageName": "baidumapsdk.demo"
+               				 },
+                			{
+                    			"appName": "8684公交",
+                   		        "appVersionName": "11.4.120",
+                    			"firstInstallTime": "2014-10-01 15：49：33",
+                    			"lastUpdateTime": "2014-10-01 15：49：33",
+                    			"packageName": "cn.chinabus.main"
+                			}
+                
+           				]
+        			    }
+ 			
+		}				
+	}
+ }
+ 
+
+ 
+记录时间：2014-11-25 10:45:10,190 
+日志级别：  INFO  
+类：MDM.Modules.EdgeServerDataModule property: [(null)] - 
+描述：收到EdgeServer发送的消息：{
+ 	"serviceID":"1",
+	"payload":{
+		"terminalID":"5465b8a0b83ba125b8b7c464",
+		"data":{
+			"interfaceID":"10",
+ 			"deviceKey":"356952047825148@unknown@e6f49b8e-a552-441e-b828-5dedbc2f7a49",
+		         "pfData": {
+            			"apps": [
+
+                			{
+                   			 "appName": "百度地图SDK DEMO",
+                   			 "appVersionName": "1.0",
+                   			 "firstInstallTime": "2014-11-24 10：56：23",
+                    			"lastUpdateTime": "2014-11-24 10：56：23",
+                    			"packageName": "baidumapsdk.demo"
+               				 },
+                			{
+                    			"appName": "8684公交",
+                   		        "appVersionName": "11.4.120",
+                    			"firstInstallTime": "2014-10-01 15：49：33",
+                    			"lastUpdateTime": "2014-10-01 15：49：33",
+                    			"packageName": "cn.chinabus.main"
+                			}
+                
+           				]
+        			    }
+ 			
+		}				
+	}
+ }
+ 
+
+ 
+记录时间：2014-11-25 10:52:08,718 
+日志级别：  INFO  
+类：MDM.Modules.EdgeServerDataModule property: [(null)] - 
+描述：收到EdgeServer发送的消息：{
+ 	"serviceID":"1",
+	"payload":{
+		"terminalID":"5465b8a0b83ba125b8b7c464",
+		"data":{
+			"interfaceID":"10",
+ 			"deviceKey":"356952047825148@unknown@e6f49b8e-a552-441e-b828-5dedbc2f7a49",
+		         "pfData": {
+            			"apps": [
+
+                			{
+                   			 "appName": "百度地图SDK DEMO",
+                   			 "appVersionName": "1.0",
+                   			 "firstInstallTime": "2014-11-24 10：56：23",
+                    			"lastUpdateTime": "2014-11-24 10：56：23",
+                    			"packageName": "baidumapsdk.demo"
+               				 },
+                			{
+                    			"appName": "8684公交",
+                   		        "appVersionName": "11.4.120",
+                    			"firstInstallTime": "2014-10-01 15：49：33",
+                    			"lastUpdateTime": "2014-10-01 15：49：33",
+                    			"packageName": "cn.chinabus.main"
+                			}
+                
+           				]
+        			    }
+ 			
+		}				
+	}
+ }
+ 
+
+ 
+记录时间：2014-11-25 10:53:30,607 
+日志级别：  INFO  
+类：MDM.Modules.EdgeServerDataModule property: [(null)] - 
+描述：收到EdgeServer发送的消息：{
+ 	"serviceID":"1",
+	"payload":{
+		"terminalID":"5465b8a0b83ba125b8b7c464",
+		"data":{
+			"interfaceID":"10",
+ 			"deviceKey":"356952047825148@unknown@e6f49b8e-a552-441e-b828-5dedbc2f7a49",
+		         "pfData": {
+            			"apps": [
+
+                			{
+                   			 "appName": "百度地图SDK DEMO",
+                   			 "appVersionName": "1.0",
+                   			 "firstInstallTime": "2014-11-24 10：56：23",
+                    			"lastUpdateTime": "2014-11-24 10：56：23",
+                    			"packageName": "baidumapsdk.demo"
+               				 },
+                			{
+                    			"appName": "8684公交",
+                   		        "appVersionName": "11.4.120",
+                    			"firstInstallTime": "2014-10-01 15：49：33",
+                    			"lastUpdateTime": "2014-10-01 15：49：33",
+                    			"packageName": "cn.chinabus.main"
+                			}
+                
+           				]
+        			    }
+ 			
+		}				
+	}
+ }
+ 
+
+ 
+记录时间：2014-11-25 10:57:51,723 
+日志级别：  INFO  
+类：MDM.Modules.EdgeServerDataModule property: [(null)] - 
+描述：收到EdgeServer发送的消息：{
+ 	"serviceID":"1",
+	"payload":{
+		"terminalID":"5465b8a0b83ba125b8b7c464",
+		"data":{
+			"interfaceID":"10",
+ 			"deviceKey":"356952047825148@unknown@e6f49b8e-a552-441e-b828-5dedbc2f7a49",
+		         "pfData": {
+            			"apps": [
+
+                			{
+                   			 "appName": "百度地图SDK DEMO",
+                   			 "appVersionName": "1.0",
+                   			 "firstInstallTime": "2014-11-24 10：56：23",
+                    			"lastUpdateTime": "2014-11-24 10：56：23",
+                    			"packageName": "baidumapsdk.demo"
+               				 },
+                			{
+                    			"appName": "8684公交",
+                   		        "appVersionName": "11.4.120",
+                    			"firstInstallTime": "2014-10-01 15：49：33",
+                    			"lastUpdateTime": "2014-10-01 15：49：33",
+                    			"packageName": "cn.chinabus.main"
+                			}
+                
+           				]
+        			    }
+ 			
+		}				
+	}
+ }
+ 
+
+ 
+记录时间：2014-11-25 11:20:43,838 
+日志级别：  INFO  
+类：MDM.Modules.EdgeServerDataModule property: [(null)] - 
+描述：收到EdgeServer发送的消息：{
+ 	"serviceID":"1",
+	"payload":{
+		"terminalID":"5465b8a0b83ba125b8b7c464",
+		"data":{
+			"interfaceID":"10",
+ 			"deviceKey":"356952047825148@unknown@e6f49b8e-a552-441e-b828-5dedbc2f7a49",
+		         "pfData": {
+            			"apps": [
+
+                			{
+                   			 "appName": "百度地图SDK DEMO",
+                   			 "appVersionName": "1.0",
+                   			 "firstInstallTime": "2014-11-24 10：56：23",
+                    			"lastUpdateTime": "2014-11-24 10：56：23",
+                    			"packageName": "baidumapsdk.demo"
+               				 },
+                			{
+                    			"appName": "8684公交",
+                   		        "appVersionName": "11.4.120",
+                    			"firstInstallTime": "2014-10-01 15：49：33",
+                    			"lastUpdateTime": "2014-10-01 15：49：33",
+                    			"packageName": "cn.chinabus.main"
+                			}
+                
+           				]
+        			    }
+ 			
+		}				
+	}
+ }
+ 
+
+ 
+记录时间：2014-11-25 11:27:30,729 
+日志级别：  INFO  
+类：MDM.Modules.EdgeServerDataModule property: [(null)] - 
+描述：收到EdgeServer发送的消息：{
+ 	"serviceID":"1",
+	"payload":{
+		"terminalID":"5465b8a0b83ba125b8b7c464",
+		"data":{
+			"interfaceID":"10",
+ 			"deviceKey":"356952047825148@unknown@e6f49b8e-a552-441e-b828-5dedbc2f7a49",
+		         "pfData": {
+            			"apps": [
+
+                			{
+                   			 "appName": "百度地图SDK DEMO",
+                   			 "appVersionName": "1.0",
+                   			 "firstInstallTime": "2014-11-24 10：56：23",
+                    			"lastUpdateTime": "2014-11-24 10：56：23",
+                    			"packageName": "baidumapsdk.demo"
+               				 },
+                			{
+                    			"appName": "8684公交",
+                   		        "appVersionName": "11.4.120",
+                    			"firstInstallTime": "2014-10-01 15：49：33",
+                    			"lastUpdateTime": "2014-10-01 15：49：33",
+                    			"packageName": "cn.chinabus.main"
+                			}
+                
+           				]
+        			    }
+ 			
+		}				
+	}
+ }
+ 
+
+ 
+记录时间：2014-11-25 11:46:21,251 
+日志级别：  INFO  
+类：MDM.Modules.EdgeServerDataModule property: [(null)] - 
+描述：收到EdgeServer发送的消息：{
+ 	"serviceID":"1",
+	"payload":{
+		"terminalID":"5465b8a0b83ba125b8b7c464",
+		"data":{
+			"interfaceID":"10",
+ 			"deviceKey":"356952047825148@unknown@e6f49b8e-a552-441e-b828-5dedbc2f7a49",
+		         "pfData": {
+            			"apps": [
+
+                			{
+                   			 "appName": "百度地图SDK DEMO",
+                   			 "appVersionName": "1.0",
+                   			 "firstInstallTime": "2014-11-24 10：56：23",
+                    			"lastUpdateTime": "2014-11-24 10：56：23",
+                    			"packageName": "baidumapsdk.demo"
+               				 },
+                			{
+                    			"appName": "8684公交",
+                   		        "appVersionName": "11.4.120",
+                    			"firstInstallTime": "2014-10-01 15：49：33",
+                    			"lastUpdateTime": "2014-10-01 15：49：33",
+                    			"packageName": "cn.chinabus.main"
+                			}
+                
+           				]
+        			    }
+ 			
+		}				
+	}
+ }
+ 
+
+ 
+记录时间：2014-11-25 11:47:39,382 
+日志级别：  INFO  
+类：MDM.Modules.EdgeServerDataModule property: [(null)] - 
+描述：收到EdgeServer发送的消息：{
+ 	"serviceID":"1",
+	"payload":{
+		"terminalID":"5465b8a0b83ba125b8b7c464",
+		"data":{
+			"interfaceID":"10",
+ 			"deviceKey":"356952047825148@unknown@e6f49b8e-a552-441e-b828-5dedbc2f7a49",
+		         "pfData": {
+            			"apps": [
+
+                			{
+                   			 "appName": "百度地图SDK DEMO",
+                   			 "appVersionName": "1.0",
+                   			 "firstInstallTime": "2014-11-24 10：56：23",
+                    			"lastUpdateTime": "2014-11-24 10：56：23",
+                    			"packageName": "baidumapsdk.demo"
+               				 },
+                			{
+                    			"appName": "8684公交",
+                   		        "appVersionName": "11.4.120",
+                    			"firstInstallTime": "2014-10-01 15：49：33",
+                    			"lastUpdateTime": "2014-10-01 15：49：33",
+                    			"packageName": "cn.chinabus.main"
+                			}
+                
+           				]
+        			    }
+ 			
+		}				
+	}
+ }
+ 
+
+ 
+记录时间：2014-11-25 12:03:15,014 
+日志级别：  INFO  
+类：MDM.Modules.EdgeServerDataModule property: [(null)] - 
+描述：收到EdgeServer发送的消息：{
+ 	"serviceID":"1",
+	"payload":{
+		"terminalID":"5465b8a0b83ba125b8b7c464",
+		"data":{
+			"interfaceID":"10",
+ 			"deviceKey":"356952047825148@unknown@e6f49b8e-a552-441e-b828-5dedbc2f7a49",
+		         "pfData": {
+            			"apps": [
+
+                			{
+                   			 "appName": "百度地图SDK DEMO",
+                   			 "appVersionName": "1.0",
+                   			 "firstInstallTime": "2014-11-24 10：56：23",
+                    			"lastUpdateTime": "2014-11-24 10：56：23",
+                    			"packageName": "baidumapsdk.demo"
+               				 },
+                			{
+                    			"appName": "8684公交",
+                   		        "appVersionName": "11.4.120",
+                    			"firstInstallTime": "2014-10-01 15：49：33",
+                    			"lastUpdateTime": "2014-10-01 15：49：33",
+                    			"packageName": "cn.chinabus.main"
+                			}
+                
+           				]
+        			    }
+ 			
+		}				
+	}
+ }
+ 
+
+ 
+记录时间：2014-11-25 12:16:49,865 
+日志级别：  INFO  
+类：MDM.Modules.EdgeServerDataModule property: [(null)] - 
+描述：收到EdgeServer发送的消息：{
+ 	"serviceID":"1",
+	"payload":{
+		"terminalID":"5465b8a0b83ba125b8b7c464",
+		"data":{
+			"interfaceID":"10",
+ 			"deviceKey":"356952047825148@unknown@e6f49b8e-a552-441e-b828-5dedbc2f7a49",
+		         "pfData": {
+            			"apps": [
+
+                			{
+                   			 "appName": "百度地图SDK DEMO",
+                   			 "appVersionName": "1.0",
+                   			 "firstInstallTime": "2014-11-24 10：56：23",
+                    			"lastUpdateTime": "2014-11-24 10：56：23",
+                    			"packageName": "baidumapsdk.demo"
+               				 },
+                			{
+                    			"appName": "8684公交",
+                   		        "appVersionName": "11.4.120",
+                    			"firstInstallTime": "2014-10-01 15：49：33",
+                    			"lastUpdateTime": "2014-10-01 15：49：33",
+                    			"packageName": "cn.chinabus.main"
+                			}
+                
+           				]
+        			    }
+ 			
+		}				
+	}
+ }
+ 
+
+ 
+记录时间：2014-11-25 12:18:54,246 
+日志级别：  INFO  
+类：MDM.Modules.EdgeServerDataModule property: [(null)] - 
+描述：收到EdgeServer发送的消息：{
+ 	"serviceID":"1",
+	"payload":{
+		"terminalID":"5465b8a0b83ba125b8b7c464",
+		"data":{
+			"interfaceID":"10",
+ 			"deviceKey":"356952047825148@unknown@e6f49b8e-a552-441e-b828-5dedbc2f7a49",
+		         "pfData": {
+            			"apps": [
+
+                			{
+                   			 "appName": "百度地图SDK DEMO",
+                   			 "appVersionName": "1.0",
+                   			 "firstInstallTime": "2014-11-24 10：56：23",
+                    			"lastUpdateTime": "2014-11-24 10：56：23",
+                    			"packageName": "baidumapsdk.demo"
+               				 },
+                			{
+                    			"appName": "8684公交",
+                   		        "appVersionName": "11.4.120",
+                    			"firstInstallTime": "2014-10-01 15：49：33",
+                    			"lastUpdateTime": "2014-10-01 15：49：33",
+                    			"packageName": "cn.chinabus.main"
+                			}
+                
+           				]
+        			    }
+ 			
+		}				
+	}
+ }
+ 
+
+ 
+记录时间：2014-11-25 13:22:35,138 
+日志级别：  INFO  
+类：MDM.Modules.EdgeServerDataModule property: [(null)] - 
+描述：收到EdgeServer发送的消息：{
+ 	"serviceID":"1",
+	"payload":{
+		"terminalID":"5465b8a0b83ba125b8b7c464",
+		"data":{
+			"interfaceID":"10",
+ 			"deviceKey":"356952047825148@unknown@e6f49b8e-a552-441e-b828-5dedbc2f7a49",
+		         "pfData": {
+            			"apps": [
+
+                			{
+                   			 "appName": "百度地图SDK DEMO",
+                   			 "appVersionName": "1.0",
+                   			 "firstInstallTime": "2014-11-24 10：56：23",
+                    			"lastUpdateTime": "2014-11-24 10：56：23",
+                    			"packageName": "baidumapsdk.demo"
+               				 },
+                			{
+                    			"appName": "8684公交",
+                   		        "appVersionName": "11.4.120",
+                    			"firstInstallTime": "2014-10-01 15：49：33",
+                    			"lastUpdateTime": "2014-10-01 15：49：33",
+                    			"packageName": "cn.chinabus.main"
+                			}
+                
+           				]
+        			    }
+ 			
+		}				
+	}
+ }
+ 
+
+ 
+记录时间：2014-11-25 14:33:22,774 
+日志级别：  INFO  
+类：MDM.Modules.EdgeServerDataModule property: [(null)] - 
+描述：收到EdgeServer发送的消息：{
+ 	"serviceID":"1",
+	"payload":{
+		"terminalID":"5465b8a0b83ba125b8b7c464",
+		"data":{
+			"interfaceID":"11",
+ 			"deviceKey":""	
+ 			
+		}				
+	}
+ }
+ 

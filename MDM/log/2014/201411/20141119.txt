@@ -1,0 +1,167 @@
+
+ 
+记录时间：2014-11-19 09:29:40,796 
+日志级别：  INFO  
+类：MDM.Modules.EdgeServerDataModule property: [(null)] - 
+描述：收到EdgeServer发送的消息：{"serviceID":"3",
+     "payload":{
+	"username":"22",
+	"password":"31",
+	"imei":"1111",
+	"appID":"3421",
+	"phoneNumber":"3333",
+	"deviceSN":"4444"
+	}
+}
+ 
+
+ 
+记录时间：2014-11-19 09:29:41,046 
+日志级别：  INFO  
+类：MDM.Models.LogonData property: [(null)] - 
+描述：收到登录数据，用户名为22
+ 
+
+ 
+记录时间：2014-11-19 09:32:04,898 
+日志级别：  INFO  
+类：MDM.Modules.EdgeServerDataModule property: [(null)] - 
+描述：收到EdgeServer发送的消息：{"serviceID":"3",
+     "payload":{
+	"username":"22",
+	"password":"31",
+	"imei":"1111",
+	"appID":"3421",
+	"phoneNumber":"3333",
+	"deviceSN":"4444"
+	}
+}
+ 
+
+ 
+记录时间：2014-11-19 09:32:05,101 
+日志级别：  INFO  
+类：MDM.Models.LogonData property: [(null)] - 
+描述：收到登录数据，用户名为22
+ 
+
+ 
+记录时间：2014-11-19 09:34:28,963 
+日志级别：  INFO  
+类：MDM.Modules.EdgeServerDataModule property: [(null)] - 
+描述：收到EdgeServer发送的消息：{"serviceID":"3",
+     "payload":{
+	"username":"22",
+	"password":"31",
+	"imei":"1111",
+	"appID":"3421",
+	"phoneNumber":"3333",
+	"deviceSN":"4444"
+	}
+}
+ 
+
+ 
+记录时间：2014-11-19 09:34:29,166 
+日志级别：  INFO  
+类：MDM.Models.LogonData property: [(null)] - 
+描述：收到登录数据，用户名为22
+ 
+
+ 
+记录时间：2014-11-19 09:36:33,852 
+日志级别：  INFO  
+类：MDM.Modules.EdgeServerDataModule property: [(null)] - 
+描述：收到EdgeServer发送的消息：{"serviceID":"3",
+     "payload":{
+	"username":"4",
+	"password":"4",
+	"imei":"1111",
+	"appID":"3421",
+	"phoneNumber":"3333",
+	"deviceSN":"4444"
+	}
+}
+ 
+
+ 
+记录时间：2014-11-19 09:36:34,055 
+日志级别：  INFO  
+类：MDM.Models.LogonData property: [(null)] - 
+描述：收到登录数据，用户名为4
+ 
+
+ 
+记录时间：2014-11-19 09:44:30,025 
+日志级别：  INFO  
+类：MDM.Modules.EdgeServerDataModule property: [(null)] - 
+描述：收到EdgeServer发送的消息：{
+ 	"serviceID":"1",
+	"payload":{
+		"terminalID":"5465b8a0b83ba125b8b7c464",
+		"data":{
+			"interfaceID":"12",
+ 			"deviceKey":"",		
+ 			"pfData":{
+				"appID":"107"		
+			}
+		}				
+	}
+ }
+
+ 
+
+ 
+记录时间：2014-11-19 09:47:10,786 
+日志级别：  INFO  
+类：MDM.Modules.EdgeServerDataModule property: [(null)] - 
+描述：收到EdgeServer发送的消息：{
+ 	"serviceID":"1",
+	"payload":{
+		"terminalID":"5465b8a0b83ba125b8b7c464",
+		"data":{
+			"interfaceID":"11",
+ 			"deviceKey":""	
+ 			
+		}				
+	}
+ }
+ 
+
+ 
+记录时间：2014-11-19 15:02:07,466 
+日志级别：  INFO  
+类：MDM.Modules.EdgeServerDataModule property: [(null)] - 
+描述：收到EdgeServer发送的消息：{
+ 	"serviceID":"1",
+	"payload":{
+		"terminalID":"5465b8a0b83ba125b8b7c464",
+		"data":{
+			"interfaceID":"12",
+ 			"deviceKey":"",		
+ 			"pfData":{
+				"appID":"107"		
+			}
+		}				
+	}
+ }
+ 
+
+ 
+记录时间：2014-11-19 15:02:13,970 
+日志级别：  INFO  
+类：MDM.Modules.EdgeServerDataModule property: [(null)] - 
+描述：收到EdgeServer发送的消息：{
+ 	"serviceID":"1",
+	"payload":{
+		"terminalID":"5465b8a0b83ba125b8b7c464",
+		"data":{
+			"interfaceID":"12",
+ 			"deviceKey":"",		
+ 			"pfData":{
+				"appID":"107"		
+			}
+		}				
+	}
+ }
+ 
